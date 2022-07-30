@@ -17,10 +17,11 @@ Want to learn more about us? - **[Visit Our Official Website!](https://haven-stu
 Is something down? A realm maybe? - **[Visit Our Status Website!](https://haven-studios.xyz)**                           
 Come join our awesome community! - **[Join Our Discord](https://haven-studios.xyz)**
 
-### Getting started
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Getting started
+
+Check out a list of commands to get you started! - **[Command List](https://wiki.haven-studios.xyz/command-list/list-of-commands)**
+How to upgrade your private mine - **[Upgrades](https://wiki.haven-studios.xyz/upgrades/upgrading-your-private-mine)**             
+Check out some information on crate chances and more! - **[Crates](https://wiki.haven-studios.xyz/crates/crate-information)**                        
+Have a question that isn't answered? Check out our faq section! - **[FAQ](https://wiki.haven-studios.xyz/faq)**
 
 ## Useful Docs
-
-Generate a new Docusaurus site using the **classic template**.
