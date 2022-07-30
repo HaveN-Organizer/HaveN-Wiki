@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-## Command List:
+## List of Commands
 
 Here you'll find a list of every command on every realm/server that HaveN Studio's owns.
 
