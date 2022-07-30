@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Who is HaveN Studios?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        HaveN Studios is a Minecraft Studio that creates
+        realms, servers and more! Our priority is always quality.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Learn more with just a click!',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Want to learn more about a command? Or need to know how to do something?
+        Our easy to use wiki has information on everything. Learn more by using the wiki tab!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'What is this?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This is the official HaveN Studios wiki! With this extensive wiki
+        you can find information on almost everything, from commands all the way to upgrades!
       </>
     ),
   },
