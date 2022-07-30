@@ -10,7 +10,7 @@ const config = {
   tagline: 'The official HaveN Studios Wiki',
   url: 'https://wikihaven.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
