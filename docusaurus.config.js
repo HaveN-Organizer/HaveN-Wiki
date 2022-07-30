@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HaveN Wiki',
   tagline: 'The official HaveN Studios Wiki',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wiki.haven-studios.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
