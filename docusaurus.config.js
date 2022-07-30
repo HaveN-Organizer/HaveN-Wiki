@@ -10,7 +10,7 @@ const config = {
   tagline: 'The official HaveN Studios Wiki',
   url: 'https://wiki.haven-studios.xyz',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
