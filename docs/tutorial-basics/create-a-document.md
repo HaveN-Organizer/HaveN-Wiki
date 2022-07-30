@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-slug: /tutorial-basics/deploy-your-site
 ---
 
 # Create a Document
