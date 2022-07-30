@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: /minecraft-bedrock-realm/create-a-page
 ---
 
 # Create a Page

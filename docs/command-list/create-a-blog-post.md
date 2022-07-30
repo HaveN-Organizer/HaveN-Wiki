@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-slug: /minecraft-bedrock-realm/create-a-blog-post
 ---
 
 # Create a Blog Post
