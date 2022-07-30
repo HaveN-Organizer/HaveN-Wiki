@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: /
+slug: /tutorial-basics/create-a-blog-post
 ---
 
 # Create a Blog Post
