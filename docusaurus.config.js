@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'HaveN Wikieee',
+  title: 'HaveN Wiki',
   tagline: 'The official HaveN Studios Wiki',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
