@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-slug: /
+slug: /minecraft-bedrock-realm/congradulations
 ---
 
 # Congratulations!

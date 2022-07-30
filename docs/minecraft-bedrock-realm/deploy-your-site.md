@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+slug: /minecraft-bedrock-realm/deploy-your-site
 ---
 
 # Deploy your site

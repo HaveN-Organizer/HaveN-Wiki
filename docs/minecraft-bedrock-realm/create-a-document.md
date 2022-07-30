@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /minecraft-bedrock-realm/create-a-document
 ---
 
 # Create a Document
