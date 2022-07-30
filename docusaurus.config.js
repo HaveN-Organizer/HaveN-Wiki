@@ -10,7 +10,7 @@ const config = {
   tagline: 'The official HaveN Studios Wiki',
   url: 'https://wikihaven.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -62,7 +62,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Wikii',
+            label: 'Wiki',
           },
           {
             href: 'https://github.com/facebook/docusaurus',

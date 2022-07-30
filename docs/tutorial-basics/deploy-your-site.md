@@ -1,6 +1,5 @@
 ---
 sidebar_position: 5
-slug: /docs/deploy-your-site
 ---
 
 # Deploy your site
