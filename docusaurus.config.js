@@ -62,7 +62,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Wiki',
+            label: 'Wikii',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
