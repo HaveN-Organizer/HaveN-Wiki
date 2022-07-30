@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'HaveN Studios', // Usually your GitHub org/user name.
-  projectName: 'HaveN-WIki', // Usually your repo name.
+  projectName: 'HaveN-Wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -65,7 +65,7 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/HaveN-Studios',
             label: 'GitHub',
             position: 'right',
           },
@@ -75,7 +75,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Wiki',
             items: [
               {
                 label: 'Wiki',
@@ -88,15 +88,15 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.haven-studios.xyz',
               },
               {
                 label: 'Website',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://haven-studios.xyz',
               },
               {
                 label: 'Status Website',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://status.haven-studios.xyz',
               },
             ],
           },
@@ -105,12 +105,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Haven-Studios',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HaveN Studios, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HaveN Studios.`,
       },
       prism: {
         theme: lightCodeTheme,
