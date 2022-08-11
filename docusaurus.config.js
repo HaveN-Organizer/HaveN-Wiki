@@ -60,7 +60,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'home',
             position: 'left',
             label: 'Wiki',
           },
@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Wiki',
-                to: 'intro',
+                to: 'home',
               },
             ],
           },
