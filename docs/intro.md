@@ -19,7 +19,7 @@ Come join our awesome community! - **[Join Our Discord](https://haven-studios.xy
 
 ## Getting started
 
-Check out a list of commands to get you started! - **[Command List](https://wiki.haven-studios.xyz/command-list/list-of-commands)**
+Check out a list of commands to get you started! - **[Command List](https://wiki.haven-studios.xyz/command-list/list-of-commands)**                     
 How to upgrade your private mine - **[Upgrades](https://wiki.haven-studios.xyz/upgrades/upgrading-your-private-mine)**             
 Check out some information on crate chances and more! - **[Crates](https://wiki.haven-studios.xyz/crates/crate-information)**                        
 Have a question that isn't answered? Check out our faq section! - **[FAQ](https://wiki.haven-studios.xyz/faq)**
