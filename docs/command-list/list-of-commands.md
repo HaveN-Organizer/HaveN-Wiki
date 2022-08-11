@@ -17,5 +17,5 @@ Every command that you can use on the realm(s).
 
 Every command that you can use on the Java server.
 
-**/spawn** - Teleports you to spawn. **Aliases: /hub & /lobby**
+**/spawn** - Teleports you to spawn. **Aliases: /hub & /lobby**             
 **/help [command: optional]** - Provides information on the specified command or shows you every command and what it does.
