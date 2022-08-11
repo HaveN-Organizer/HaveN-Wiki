@@ -2,7 +2,7 @@
     "label": "API",
     "position": 3,
     "link": {
-      "type": "category",
+      "type": "generated-index",
       "description": "Learn how to use the api to check players stats and more!"
     }
   }
