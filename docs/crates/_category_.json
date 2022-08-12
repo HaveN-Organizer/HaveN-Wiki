@@ -1,0 +1,8 @@
+{
+    "label": "Crates",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Wanna know a little bit more about how crates work? This is the place!"
+    }
+  }
